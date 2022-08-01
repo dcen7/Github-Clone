@@ -66,7 +66,6 @@
 		FB9685272893010C00F6F613 /* Netflix Clone */ = {
 			isa = PBXGroup;
 			children = (
-				FB96854928930BC600F6F613 /* Managers */,
 				FB96854828930BAF00F6F613 /* Resources */,
 				FB96854728930B8200F6F613 /* Models */,
 				FB96854528930B6500F6F613 /* Views */,
@@ -121,13 +120,6 @@
 			children = (
 			);
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		FB96854928930BC600F6F613 /* Managers */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Managers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
